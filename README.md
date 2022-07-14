@@ -37,7 +37,7 @@ this window will apear to you
 
 ![image](https://user-images.githubusercontent.com/88630231/179015679-87a8384b-e987-447d-8ddc-4f0393aebe45.png)
 
-inside this system you will find alot of intersting features we hope you will enjoy it 
+inside this system you will find interesting features we hope you will have fun
 
 like 
 
